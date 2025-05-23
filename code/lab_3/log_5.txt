@@ -1,0 +1,12 @@
+10_rand_pairs.txt -> 10_rand_pairs_result1.txt: 1 ms
+100_rand_pairs.txt -> 100_rand_pairs_result.txt: 12 ms
+1000_rand_pairs.txt -> 1000_rand_pairs_result.txt: 113 ms
+10000_rand_pairs.txt -> 10000_rand_pairs_result.txt: 1112 ms
+pair_rand_100.txt -> pair_rand_100_result.txt: 2 ms
+pair_rand_500.txt -> pair_rand_500_result.txt: 82 ms
+pair_rand_1000.txt -> pair_rand_1000_result.txt: 384 ms
+pair_rand_2000.txt -> pair_rand_2000_result.txt: 2241 ms
+10_five_100_pairs.txt -> 10_five_100_pairs_result.txt: 23 ms
+100_five_100_pairs.txt -> 100_five_100_pairs_result.txt: 243 ms
+1000_five_100_pairs.txt -> 1000_five_100_pairs_result.txt: 2431 ms
+Total: 6644 ms
